@@ -1,3 +1,3 @@
 export function sayhello() {
-    console.log('hello 1.0.5');
+    console.log('hello 1.0.6');
 }
